@@ -1,7 +1,7 @@
 # ProGambling v2 - Roulette for Steam Games
 
 ## [Demo](https://www.csgobing.com)
-## [Full Package](https://www.pro-gambling.com/index.php/product/create-steam-gambling-site-pro-pack/))
+## [Full Package](https://www.pro-gambling.com/index.php/product/create-steam-gambling-site-pro-pack/)
 
 This project is the Gambler pack from [Pro-Gambling.com](https://www.Pro-Gambling.com). It contains :
 ```

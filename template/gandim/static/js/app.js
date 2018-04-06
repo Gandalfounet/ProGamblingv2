@@ -1,5 +1,3 @@
-
-
 $(document).ready(function() {
     var socket = io.connect('https://csgobing.com:443', {secure:true});
 

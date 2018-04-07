@@ -3,7 +3,10 @@
 ## [Demo](https://www.csgobing.com)
 ## [Full Package](https://www.pro-gambling.com/index.php/product/create-steam-gambling-site-pro-pack/)
 
-Brief description : Pro Gambling is a service that provides powerful gambling platforms, we wan't to work directly with our customers to improve the product in the best way. Each patch is announced through the twitter and delivered directly through customer's mail. Stay tuned at https://twitter.com/ProGamblingDev
+Brief description : 
+ProGamblingv2 is a Gambling website full javascript oriented. It combines powerful tech such as nodejs, mongodb, vuejs... I currently just released the roulette, but games like jackpot, coinflip, dice and crash are available in the full package. It is usable on every steam games, from CSGO to pubg, h1z1, rust...
+
+Pro Gambling is a service that provides powerful gambling platforms, we wan't to work directly with our customers to improve the product in the best way. Each patch is announced through the twitter and delivered directly through customer's mail. Stay tuned at https://twitter.com/ProGamblingDev
 
 
 This project is the Gambler pack from [Pro-Gambling.com](https://www.Pro-Gambling.com). It contains :

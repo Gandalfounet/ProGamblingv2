@@ -52,6 +52,7 @@ $(document).ready(function() {
                 fee: 0,
                 fee_reduc: 0,
             }, 
+            connected_client:0,
             // trade
             offerStatus: {},
             invalidTradelink: false,

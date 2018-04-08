@@ -5,32 +5,14 @@ module.exports = {
     appID: 730, // 730 - CS:GO 252490 - Rust
     contextID: 2, // ContextID
     bots: {
-        // bot_1: {
-        //     siteName: 'Bot 1',  // Will be displayed under the "All bots" tab e.g. "Keys Only"
-        //     accountName: '',    // bot_1 username
-        //     password: '',       // bot_1  password
-        //     twoFactorCode: '',  // shared_secret value
-        //     identitySecret: '', // identity_secret value
-        //     steamID64: '',  // SteamID64 of bot account can be found here: "https://steamid.io/"
-        //     personaName: 'BOT#1[CSGOBing.com]',   // Nickname for bot account, will change on restart
-        // },
-        // bot_2: {
-        //     siteName: 'Bot 2',  // Will be displayed under the "All bots" tab e.g. "Keys Only"
-        //     accountName: '',    // bot_1 username
-        //     password: '',       // bot_1  password
-        //     twoFactorCode: '',  // shared_secret value
-        //     identitySecret: '', // identity_secret value
-        //     steamID64: '',  // SteamID64 of bot account can be found here: "https://steamid.io/"
-        //     personaName: 'BOT#2[CSGOBing.com]',   // Nickname for bot account, will change on restart
-        // },
-        bot_3: {
+        bot_3: { //let the key as "bot_3"
             siteName: 'Bot 3',  // Will be displayed under the "All bots" tab e.g. "Keys Only"
             accountName: '',    // bot_1 username
             password: '',       // bot_1  password
             twoFactorCode: '',  // shared_secret value
             identitySecret: '', // identity_secret value
             steamID64: '',  // SteamID64 of bot account can be found here: "https://steamid.io/"
-            personaName: 'BOT#3',   // Nickname for bot account, will change on restart
+            personaName: 'BOT#1',   // Nickname for bot account, will change on restart
         },
     },
     admins: ['76561197971996493', '76561197971996493'],
